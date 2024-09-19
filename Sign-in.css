@@ -1,0 +1,52 @@
+.far{
+    padding-bottom: 62px;
+}
+
+.first_1{
+    display:flex;
+    justify-content: left;
+    align-items: center;
+    height:auto;
+    
+   
+}
+
+label{
+    color:#828A81;
+}
+
+.vcv{
+    width:500px;
+    margin-top: -45px;
+    margin-bottom: 34px;
+}
+
+.vcv > a{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    letter-spacing: 0.0016em;
+    text-align: right;
+    color:#1C690F;
+    text-decoration:  none;
+
+}
+
+
+input [type="checkbox"]{
+    margin:0;
+    padding:0;
+}
+
+input#Remember{
+    margin:0;
+    padding:0;
+    width:20px;
+    margin-right: 12px;
+}
+
+.porch > a{
+    color:white;
+    text-decoration: none;
+}

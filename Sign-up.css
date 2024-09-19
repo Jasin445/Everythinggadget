@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    box-shadow: none;
+}
+
+.containe{
+    margin-left: 10%;
+}
+
+.sign-in{
+    width:53%;
+    margin-top: 68px;
+    padding:0px 40px;
+    padding-left:0;
+    flex-basis: 20%;
+}
+
+.sign-in .div-2 span{
+    font-family: Lato;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    color:#061503;
+    
+}
+
+.sign-in .div-2 > p{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: left;
+    color:#AEA9A9;
+    margin-bottom: 42px;
+    margin-top: 8px;
+}
+
+.frees{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: center;
+    margin: auto;
+    margin: 24px;
+
+}
+
+.dfs{
+    font-family: Roboto !important;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    line-height: 16px !important;
+    text-align: left !important;
+    color:#1C690F !important;
+
+}
+
+.porch{
+    width:100%;
+}
+
+.picture{
+    width:47%;
+    background-color: #1C690F;
+    height:1057px;
+    
+}
+
+.picture > img{
+    height: auto;
+}
+
+div.div-2{
+    position: relative;
+    top: -85px;
+    
+}
+
+.div-2 input{
+    width:100%;
+}
+
+.fie{
+    width:500px;
+}
+
+.fie.flex{
+    margin-top:24px;
+    justify-content: center;
+    gap:14px;
+}
+
+.picture >  p:first-child{
+    font-family: Lato;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 41.6px;
+    text-align: center;
+    color:#D2E1CF;
+    margin-top:68px;
+    margin-bottom: 40px;
+}
+
+.picture > p:nth-child(2){
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    color:#D2E1CF;
+    padding:0 29px;
+    margin: auto;
+    margin-bottom:56px;
+
+}
+
+.dddp{
+    position: relative;
+    top:-60px;
+    left:478px;
+    cursor: pointer;
+}
+
+.porch a{
+    color:white;
+    text-decoration: none;
+}
+
+.dfs a{
+    color:#1C690F;
+    text-decoration: none;
+}
+
+
+
+
+.home{
+    padding:unset;
+    margin-left: 10%;
+    width:53%;
+
+    
+}
+
+
+
+.gre{
+    width:47%;
+    background-color: #1C690F;
+    height:100%;
+}

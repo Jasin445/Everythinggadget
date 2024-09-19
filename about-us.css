@@ -1,0 +1,171 @@
+.container-extra{
+    margin-left:-0.3px ;
+    max-width:1440.09px;
+    margin-bottom: 55.93px;
+    position: relative;
+    display: inline-block;
+}
+
+.ourselves{
+    max-width:490px;
+    min-width:350px;
+    flex-basis:50%;
+}
+
+.guys{
+    width:100%;
+    flex-basis: 50%;
+    height: auto;
+}
+
+.guys > img{
+    width:100%;
+    height: auto;
+}
+
+.fr{
+    gap:40px;
+    margin-bottom: 56.28px;
+}
+
+.gin{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.8px;
+    text-align: left;
+    color:#181818;
+
+}
+
+.gen{
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 16px;
+}
+
+.fr-1{
+    flex-direction: row-reverse;
+ 
+}
+
+
+.ourselves-1{
+        max-width:550px;
+        min-width:350px;
+        flex-basis:50%;
+    }
+
+    .center-pay{
+        width:60%;
+        margin: auto;
+        margin-top: 120.28px;
+        text-align: center;
+        margin-bottom: 155.21px;
+    }
+
+    .center-pay > img{
+        height:auto;
+    }
+
+    .center-pay > p{
+        margin-bottom: 24px;
+    }
+
+    .center-pay > p:first-child{
+        font-family: Lato;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 31.2px;
+        text-align: center;
+        color:#2F3C2D;
+    }
+
+    .center-pay >p:nth-child(2){
+        font-family: Lato;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 20.8px;
+        text-align: center;
+        color:#2F3C2D;
+    }
+
+    .long-1{
+        width:52%;
+        height:50px;
+        margin-bottom: 99.09px;
+    }
+
+    .cc > p:first-child{
+        text-align: center;
+        margin: auto;
+        font-family: Lato;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 28.8px;
+        letter-spacing: 0.0016em;
+        text-align: center;
+        color: #181818;
+        margin-bottom:24px;
+
+    }
+
+    .xo{
+        justify-content: left;
+        gap:12px;
+    }
+
+    .xo > p{
+        font-family: DM Sans;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 20px;
+        text-align: left;
+        color:#2A9134;
+    }
+
+    .chat-support  > p:last-child{
+        font-family: Lato;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 20.8px;
+        text-align: left;
+        color:#2A9134;
+
+    }
+
+   
+
+    .centre_1{
+        font-family: Manrope;
+        font-size: 56px;
+        font-weight: 500;
+        line-height: 56px;
+        text-align: center;
+        color:#F1F1F1;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate( -50%, -50% );
+        
+    }
+
+    .chat-support{
+        padding:20px;
+        flex-basis: 31%;
+        box-shadow: -6px 6px 20px 0px #0000001A;
+
+    }
+
+    .jj{
+        gap:12px;
+    }
+
+    .cc{
+        margin-bottom: 98.02px;
+    }
+
+
